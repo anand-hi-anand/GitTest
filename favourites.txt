@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Ghee chawal bhunjia 
 Maggie
 Doodh
+=======
+Iron Man 1 
+Kung Fu Panda
+Sherlock Holmes
+>>>>>>> movies
